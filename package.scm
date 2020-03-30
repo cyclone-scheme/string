@@ -1,6 +1,6 @@
 (package
   (name string)
-  (version 0.1)
+  (version 0.3)
   (license "BSD")
   (authors "Arthur Maciel <arthurmaciel at gmail dot com")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com")
