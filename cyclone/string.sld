@@ -20,7 +20,8 @@
    string-find string-find-right string-find? string-skip string-skip-right
    string-fold string-fold-right string-map string-for-each
    string-contains make-string-searcher
-   string-downcase-ascii string-upcase-ascii)
+   string-downcase-ascii string-upcase-ascii
+  call-with-input-string call-with-output-string)
   (import (scheme base)
           (scheme char)
           (cyclone char-set base))
